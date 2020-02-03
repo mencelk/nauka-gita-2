@@ -11,11 +11,12 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     margin: 40px auto 0;
 }
 
 h3 {
+    font-size: 26px;
     margin: 0;
     font-style: italic;
 }
