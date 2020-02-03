@@ -1,0 +1,26 @@
+body {
+    font-family: 'Cinzel', serif;
+    color: #9c3a3a;
+    background: #e3e3e3;
+    font-weight: 700;
+}
+
+.container {
+    margin: 20px auto;
+    width: 30%;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 40px auto 0;
+}
+
+h3 {
+    margin: 0;
+    font-style: italic;
+}
+
+h5 {
+    margin: 0 auto 60px;
+    padding: 5px 0;
+}
